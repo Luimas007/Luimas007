@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning advanced Algorithms
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me ... https://www.linkedin.com/in/samiul-haque-siddique-9036a724a/
-- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm Homophobic
 
 <!---
