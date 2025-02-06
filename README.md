@@ -5,7 +5,13 @@
 - 📫 How to reach me ... https://www.linkedin.com/in/samiul-haque-siddique-9036a724a/
 - ⚡ Fun fact: ... I'm Homophobic
 
-<!---
-Luimas007/Luimas007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔥 Interests
+Competitive Programming – Always up for an interesting problem!
+Mathematics – The foundation of logic and reasoning.
+Machine Learning – Exploring the power of data and AI.
+💻 Tech Stack
+Languages: C++, Python
+Tools: Git, Linux, VS Code
+Fields of Interest: Algorithms, Data Structures, AI/ML
+📫 Connect with Me
+Feel free to check out my repositories and collaborate!
