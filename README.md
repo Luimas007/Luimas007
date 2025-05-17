@@ -7,18 +7,26 @@
 
 ---
 
-## 🧠 About Me
+<!-- CF-START -->
 
-I'm an aspiring **Machine Learning Engineer** passionate about **problem-solving**, **backend systems**, and **building impactful products** 🚀.
+![Codeforces Rating](https://img.shields.io/badge/Codeforces-fetching...-lightgray?style=flat-square&logo=codeforces)
 
-- 🌱 Currently learning **Machine Learning**, **FastAPI**, and **Express.js**.
-- 💻 Love working on **competitive programming**, **DSA**, and **backend APIs**.
-- 🎯 Focused on writing **clean**, **efficient**, and **scalable** code.
-- 📚 Open to collaborating on **open-source**, **backend projects**, and **AI research**.
+<!-- CF-END -->
 
 ---
 
-## 🛠️ Skills and Tools
+## 🧠 About Me
+
+I'm an aspiring _Machine Learning Engineer_ passionate about _problem-solving, **backend systems, and **building impactful products_ 🚀.
+
+- 🌱 Currently learning _Machine Learning, **FastAPI, and **Express.js_.
+- 💻 Love working on _competitive programming, **DSA, and **backend APIs_.
+- 🎯 Focused on writing _clean, **efficient, and **scalable_ code.
+- 📚 Open to collaborating on _open-source, **backend projects, and **AI research_.
+
+---
+
+## 🛠 Skills and Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -37,18 +45,22 @@ I'm an aspiring **Machine Learning Engineer** passionate about **problem-solving
 ## 🚀 Featured Projects
 
 ### 🔹 [Graph Visualizer](https://github.com/Luimas007/graph-visualizer)
+
 > Interactive visualization tool for better understanding of Graph DSA concepts.  
 > [Live Demo](https://luimas007.github.io/graph-visualizer/)
 
 ### 🔹 [Predictive Weather App](https://github.com/Luimas007/front-weather)
+
 > Fullstack app with real-time weather updates and forecast predictions.  
 > [View App](https://luimas007.github.io/front-weather/)
 
 ### 🔹 [Tic Tac Toe Game](https://github.com/Luimas007/tic-tac-toe)
+
 > Classic game logic implemented using vanilla JS.  
 > [Play Now](https://luimas007.github.io/tic-tac-toe/)
 
 ### 🔹 [To-Do List App](https://github.com/Luimas007/list-todo)
+
 > A task management app to boost productivity.  
 > [Try It](https://luimas007.github.io/list-todo/)
 
@@ -56,20 +68,20 @@ I'm an aspiring **Machine Learning Engineer** passionate about **problem-solving
 
 ## 📚 Certifications
 
-- 🎓 Machine Learning Specialization (DeepLearning.AI) — _Ongoing_
+- 🎓 Machine Learning Specialization (DeepLearning.AI) — Ongoing
 - 🎓 Python for Everybody (University of Michigan)
 - 🎓 Programming with JavaScript (Meta)
-- 🎓 Backend Development with Node.js and Express (Udemy) — _Ongoing_
+- 🎓 Backend Development with Node.js and Express (Udemy) — Ongoing
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Ranked 121st** – ICPC Dhaka Regional 2023
-- 🥈 **51st Place** – UIU CSE Fest Inter-University Programming Contest
-- 🚀 **Solved 1100+ DSA Problems** on LeetCode, Codeforces, and GFG
+- 🥇 _Ranked 121st_ – ICPC Dhaka Regional 2023
+- 🥈 _51st Place_ – UIU CSE Fest Inter-University Programming Contest
+- 🚀 _Solved 1100+ DSA Problems_ on LeetCode, Codeforces, and GFG
 - 🏆 Champion – Bangladesh Math Olympiad (Secondary Category), 2019
-- 📈 Top **5% Academic Performer** at BUP
+- 📈 Top _5% Academic Performer_ at BUP
 
 ---
 
@@ -90,5 +102,4 @@ I'm an aspiring **Machine Learning Engineer** passionate about **problem-solving
 
 ---
 
-> _"Strive for progress, not perfection."_ 🚀
-
+> "Strive for progress, not perfection." 🚀

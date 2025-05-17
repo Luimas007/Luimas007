@@ -1,0 +1,31 @@
+name: Update Codeforces Rating
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Fetch Codeforces rating
+        run: |
+          curl -s "https://codeforces.com/api/user.info?handles=Luimas007" |
+          jq -r '.result[0] |
+          "![Codeforces Rating](https://img.shields.io/badge/Codeforces-\(.handle)--\(.rating)-blue?style=flat-square&logo=codeforces)"' > cf-badge.md
+
+      - name: Update README
+        run: |
+          sed -i '/<!-- CF-START -->/,/<!-- CF-END -->/c\<!-- CF-START -->\n'$(cat cf-badge.md)'\n<!-- CF-END -->' README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update Codeforces rating"
+          git push
