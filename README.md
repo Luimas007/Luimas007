@@ -9,7 +9,8 @@
 
 <!-- CF-START -->
 
-![CodeForces Rating](CF.png)
+![Codeforces Rating](https://img.shields.io/badge/codeforces-luimas-blue)
+
 
 
 <!-- CF-END -->
