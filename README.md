@@ -9,7 +9,8 @@
 
 <!-- CF-START -->
 
-![Codeforces Rating](https://img.shields.io/badge/Codeforces-fetching...-lightgray?style=flat-square&logo=codeforces)
+![CodeForces Rating](CF.png)
+
 
 <!-- CF-END -->
 
