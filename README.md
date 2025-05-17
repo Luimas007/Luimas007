@@ -34,11 +34,6 @@ I'm an aspiring **Machine Learning Engineer** passionate about **problem-solving
 
 ---
 
-## CodeForces
-![Codeforces](https://cf-stats-api.vercel.app/api?username=Luimas)
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔹 [Graph Visualizer](https://github.com/Luimas007/graph-visualizer)
